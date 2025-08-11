@@ -1,2 +1,2 @@
 # Shelley
-R&amp;D Projects on VW EV Battery Supply Chain Logisitics
+R&D Projects for stakeholders Usage on VW EV Battery Supply Chain Logisitics
